@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotDisc1", "BotDisc1.csproj", "{ACC9A804-944E-476F-8458-7831C752BE42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC9A804-944E-476F-8458-7831C752BE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC9A804-944E-476F-8458-7831C752BE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC9A804-944E-476F-8458-7831C752BE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC9A804-944E-476F-8458-7831C752BE42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06CF6D9B-C6DE-4315-BABE-821FCF1088B3}
+	EndGlobalSection
+EndGlobal
